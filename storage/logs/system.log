@@ -1337,3 +1337,24 @@ flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
   "message": "missing_app_id",
   "description": "No App ID provided. Please sign up  (truncated...)
   
+[2020-12-22 09:04:42] development.INFO: Compiling registered asset bundles...
+app.scss
+ -> /themes/tastyigniter-orange/assets/css/app.css
+Compiling registered asset bundles...
+flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
+ -> /themes/tastyigniter-orange/assets/js/app.js
+  
+[2020-12-22 09:07:11] development.INFO: Compiling registered asset bundles...
+app.scss
+ -> /themes/tastyigniter-orange/assets/css/app.css
+Compiling registered asset bundles...
+flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
+ -> /themes/tastyigniter-orange/assets/js/app.js
+  
+[2020-12-22 11:44:49] development.INFO: Compiling registered asset bundles...
+app.scss
+ -> /themes/tastyigniter-orange/assets/css/app.css
+Compiling registered asset bundles...
+flame.js, affix.js, select2.min.js, jquery.raty.js, app.js
+ -> /themes/tastyigniter-orange/assets/js/app.js
+  

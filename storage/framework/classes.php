@@ -306,4 +306,6 @@
   'System\\Requests\\Language' => 'app\\system\\requests\\Language.php',
   'Admin\\Controllers\\orders' => 'app\\admin\\controllers\\orders.php',
   'Admin\\Actions\\AssigneeController' => 'app\\admin\\actions\\AssigneeController.php',
+  'igniter\\api\\Controllers\\resources' => 'extensions\\igniter\\api\\controllers\\resources.php',
+  'igniter\\frontend\\Controllers\\sliders' => 'extensions\\igniter\\frontend\\controllers\\sliders.php',
 );
