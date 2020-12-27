@@ -76,7 +76,7 @@ class Account extends \System\Classes\BaseComponent
             'activationPage' => [
                 'label' => 'The account registration activation page',
                 'type' => 'select',
-                'default' => 'account/register',
+                'default' => '/register',
                 'options' => [static::class, 'getThemePageOptions'],
                 'validationRule' => 'required|regex:/^[a-z0-9\-_\/]+$/i',
             ],
