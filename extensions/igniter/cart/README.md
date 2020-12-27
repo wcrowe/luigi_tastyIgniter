@@ -97,7 +97,7 @@ permalink: /checkout
 '[checkout]':
     showCountryField: 0
     menusPage: local/menus
-    redirectPage: checkout/checkout
+    redirectPage: checkout
     successPage: checkout/success
     successParamCode: 'hash'
 ---

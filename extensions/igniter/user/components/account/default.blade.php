@@ -27,7 +27,7 @@
             <p><i class="fa fa-shopping-basket fa-3x text-muted"></i></p>
             @if ($__SELF__->cartCount())
                 <p>{!! sprintf(lang('igniter.user::default.text_cart_summary'), $__SELF__->cartCount(), currency_format($__SELF__->cartTotal())) !!}</p>
-                <a class="btn btn-primary" href="{{ site_url('checkout/checkout') }}">
+                <a class="btn btn-primary" href="{{ site_url('checkout') }}">
                     @lang('igniter.user::default.text_checkout')
                 </a>
             @else

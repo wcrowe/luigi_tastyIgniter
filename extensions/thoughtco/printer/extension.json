@@ -1,0 +1,13 @@
+{
+  "code": "thoughtco.printer",
+  "name": "Printer",
+  "description": "Allow for printing of order dockets though USB (ESC/P), IP/Network Printing (ESC/P) or Epson ePOS network web service.",
+  "version": "v1.4.7",
+  "author": "ryanmitchell",
+  "icon": {
+    "class": "fa fa-print",
+    "backgroundColor": "#111",
+    "color": "#FFF"
+  },
+  "homepage": "https://github.com/thoughtco/ti-ext-printer"
+}

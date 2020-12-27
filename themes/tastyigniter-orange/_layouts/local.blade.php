@@ -25,7 +25,7 @@ description: 'Local layout'
     showCartItemThumb: 1
     pageIsCheckout: 0
     pageIsCart: 0
-    checkoutPage: checkout/checkout
+    checkoutPage: checkout
 
 ---
 <!DOCTYPE html>

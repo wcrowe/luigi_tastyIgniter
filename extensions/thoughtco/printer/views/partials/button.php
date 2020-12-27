@@ -1,0 +1,1 @@
+<a class="btn btn-outline-default" href="<?= admin_url('thoughtco/printer/printdocket?sale='.$model->order_id); ?>">Print docket</a>
