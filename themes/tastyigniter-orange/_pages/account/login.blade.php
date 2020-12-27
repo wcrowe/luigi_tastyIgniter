@@ -29,7 +29,7 @@ security: guest
                             <div class="col-sm-7">
                                 <a
                                     class="btn btn-outline-default btn-block btn-lg"
-                                    href="{{ site_url('account/register') }}"
+                                    href="{{ site_url('/register') }}"
                                 >@lang('main::lang.account.login.button_register')</a>
                             </div>
                         @endif

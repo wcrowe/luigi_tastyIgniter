@@ -24,7 +24,7 @@ return [
             'title' => 'main::lang.menu_register',
             'code' => 'register',
             'type' => 'theme-page',
-            'reference' => 'account/register',
+            'reference' => '/register',
         ],
         [
             'title' => 'main::lang.menu_my_account',
