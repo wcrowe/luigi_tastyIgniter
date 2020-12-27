@@ -30,7 +30,7 @@ return [
             'title' => 'main::lang.menu_my_account',
             'code' => 'account',
             'type' => 'theme-page',
-            'reference' => 'account/account',
+            'reference' => '/account',
             'items' => [
                 [
                     'title' => 'main::lang.menu_recent_order',
@@ -42,7 +42,7 @@ return [
                     'title' => 'main::lang.menu_my_account',
                     'code' => '',
                     'type' => 'theme-page',
-                    'reference' => 'account/account',
+                    'reference' => '/account',
                 ],
                 [
                     'title' => 'main::lang.menu_address',

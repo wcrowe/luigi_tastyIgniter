@@ -27,7 +27,7 @@ class Account extends \System\Classes\BaseComponent
             'accountPage' => [
                 'label' => 'The customer dashboard page',
                 'type' => 'select',
-                'default' => 'account/account',
+                'default' => '/account',
                 'options' => [static::class, 'getThemePageOptions'],
                 'validationRule' => 'required|regex:/^[a-z0-9\-_\/]+$/i',
             ],
@@ -91,7 +91,7 @@ class Account extends \System\Classes\BaseComponent
             'redirectPage' => [
                 'label' => 'Page to redirect to after successful login or registration',
                 'type' => 'select',
-                'default' => 'account/account',
+                'default' => '/account',
                 'options' => [static::class, 'getThemePageOptions'],
                 'validationRule' => 'required|regex:/^[a-z0-9\-_\/]+$/i',
             ],

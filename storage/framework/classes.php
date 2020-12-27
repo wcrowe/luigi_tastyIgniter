@@ -331,4 +331,8 @@
   'Admin\\Widgets\\Table\\Source\\DataSource' => 'app\\admin\\widgets\\table\\source\\DataSource.php',
   'thoughtco\\printer\\Controllers\\printdocket' => 'extensions\\thoughtco\\printer\\controllers\\printdocket.php',
   'Admin\\FormWidgets\\MarkdownEditor' => 'app\\admin\\formwidgets\\MarkdownEditor.php',
+  'Admin\\Models\\Customer_groups_model' => 'app\\admin\\models\\Customer_groups_model.php',
+  'System\\Helpers\\ViewHelper' => 'app\\system\\helpers\\ViewHelper.php',
+  'System\\Models\\Mail_themes_model' => 'app\\system\\models\\Mail_themes_model.php',
+  'Main\\Models\\Image_tool_model' => 'app\\main\\models\\Image_tool_model.php',
 );
